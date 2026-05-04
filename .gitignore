@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large media files
+*.mp4
+*.mp3
+*.mov
+*.avi
+*.mkv
+*.zip
+*.rar
+
+# Documents / exports
+*.pdf
+*.docx
+*.doc
+*.pages
+*.xlsx
+*.xls
+
+# Images (heavy)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+
+# Reel production folders
+Reel*/
+REEL*/
+"Reel */
+"REEL */
+
+# Misc folders
+AI\ Babushka\ -\ Audio/
+images/
+TG/
+YouTube/
+DMV\ -\ Tests/
+Enkelin/
+Marketing\ 26/
+Oma\ -\ kleiner/
+Oma\ erzaehlt/
+Ahal\ Theke\ Horse/
+"By Word of Mouth  "/
+Шарф/
+"Милые женщины…"/
+"male actor, who sings"/
+stories-reels-generator/node_modules/
+stories-reels-generator/dist/
+
+# Empty marker files
+Family\ Constellation
+R/
+Ana\ Krista/
